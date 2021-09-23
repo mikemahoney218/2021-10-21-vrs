@@ -106,7 +106,7 @@ If you put a good bit more time and effort into this process, you can make absol
 
 But of course, time and effort are expensive things. Our goal is to try and make placing objects on surfaces just as easy as building the surface itself is with terrainr -- so that writing a few lines of code once lets you place objects defined in GIS data, inside the game engine, in a clear and reproducible way.
 
-These simulations will never replace photographs or renderings. But they might let us quickly and easily make simulations of areas that we care about, so that we can more readily identify the areas that are worth the expense of making those more concrete visualizations, and provide a new way for us to understand our world across multiple scales. 
+These simulations will never replace photographs or renderings. We've got a good bit of work to do in evaluating how users perceive these sorts of visualizations before we'll know exactly what sorts of situations and projects they're appropriate for. But they might let us quickly and easily make simulations of areas that we care about, so that we can more readily identify the areas that are worth the expense of making those more concrete visualizations, and provide a new way for us to understand our world across multiple scales. 
 
 We aren't there yet, but we're working on it.
 
