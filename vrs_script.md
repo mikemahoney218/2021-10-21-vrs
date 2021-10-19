@@ -82,7 +82,7 @@ And then 6 more lines to transform that viewshed raster into something we can us
 
 By my count, that's 44 lines of code from start to finish, which we can use to download spatial data, run this viewshed analysis, and then reproduce our Unity visualization for any area we want. 
 
-I think that's huge. Not only is this visualization reproducible, but we can make the next one so much faster. All the work is already done.
+I think that's huge. Not only is this visualization reproducible, but we can make the next one so much faster. All the work is already done. And all the decisions in how this visualization was made are sitting right there in our code. The visualization documents itself.
 
 So this is what our terrainr package helps people do. It makes this type of surface, quickly and reproducibly. What used to be a manual job that took ages now takes about ten minutes from downloading the data to walking across a surface.
 
