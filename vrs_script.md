@@ -62,7 +62,7 @@ Unity is not a GIS and is not really designed for representing real-world data. 
 
 ## Slide 8
 
-So on April 22nd this year, we published a new R package called terrainr. For those unfamiliar with R, we basically released a bunch of code that other people can now use to make these sorts of visualizations, much more easily than if they had to do everything by hand. terrainr provides both access to a lot of spatial data, provided by the USGS National Map program, and a set of tools to help visualize that data in R and in Unity.
+So on April 22nd this year, we published a new R package called terrainr. For those unfamiliar with R, we basically released a bunch of code that other people can now use to make these sorts of visualizations, much more easily than if they had to do everything by hand. R itself is a free and open source project, and as the phrase goes that means it's both free as in beer and free as in speech. There's no licensing fee to pay, no concern that some company goes out of business and none of your files open any more, no concern that anyone comes after you for using the product in a way your license doesn't approve of. And then terrainr provides access to both a ton of public domain spatial data, provided by the USGS National Map program, and a set of tools to help visualize that data in R and in Unity.
 
 ## Slide 9
 
